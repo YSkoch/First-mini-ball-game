@@ -1,0 +1,30 @@
+body {
+    background-color: #c3c3c3;
+    text-align: center;
+    width:60%;
+    height: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+h1 {
+    color: #4c6ebb;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+canvas {
+    width: 100%;
+    background-color:black;
+    border-radius: 10px;
+    
+}
+
+p {
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-style: italic;
+}
